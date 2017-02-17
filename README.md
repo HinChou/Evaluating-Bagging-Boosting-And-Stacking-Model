@@ -30,7 +30,7 @@ Steps of Stacking:
 
 Thus this might improve the overall performance, and often it ends up with a model which is better than any individual intermediate model. 
 
-### Notice
+### Notice:
 Stacking does not gives any guarantee of improving the overall predictive power, as is often the case with any machine learning technique.
 
 ### Need To Point Out:
