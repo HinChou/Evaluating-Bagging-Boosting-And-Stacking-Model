@@ -33,7 +33,10 @@ Thus this might improve the overall performance, and often it ends up with a mod
 ### Notice
 Stacking does not gives any guarantee of improving the overall predictive power, as is often the case with any machine learning technique.
 
+### Importance:
 As you see, these all are different approaches to combine several models into a better one, and there is no single winner here: everything depends upon your domain and what you're going to do. You can still treat stacking as a sort of more advances boosting, however, the difficulty of finding a good approach for your meta-level makes it difficult to apply this approach in practice.
+
+![alt tag](https://github.com/HinChou/Evaluating-Bagging-Boosting-And-Stacking-Model/blob/master/Bagging_Boosting_Stacking_Comparison_Table.jpg)
 
 References:
 * http://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning
