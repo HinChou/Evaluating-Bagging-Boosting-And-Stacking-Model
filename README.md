@@ -42,4 +42,5 @@ Here is a comparison table:
 References:
 * http://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning
 * https://www.quora.com/What-is-stacking-in-machine-learning
+* https://github.com/patrick201/information_value
 
