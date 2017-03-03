@@ -8,13 +8,13 @@ Every algorithm consists of two steps:
 2. Combining the distribution into one "aggregated" model.
 
 ## Bagging:
-It is a way to decrease the variance of your prediction by generating additional data for training from your original dataset using combinations with repetitions to produce multisets of the same cardinality/size as your original data. 
+It is a way to decrease the variance of the prediction by generating additional data for training from the original dataset, using combinations with repetitions to produce multisets of the same cardinality/size as the original data. 
 
 ## Boosting:
 It is a two-step approach, where one first uses subsets of the original data to produce a series of averagely performing models and then "boosts" their performance by combining them together using a particular cost function (for example: majority vote). Unlike bagging, in the classical boosting the subset creation is not random and depends upon the performance of the previous models: every new subsets contains the elements that were (likely to be) misclassified by previous models.
 
 ## Stacking:
-It is a similar to boosting: you also apply several models to your original data. The difference here is, however, that you don't have just an empirical formula for your weight function, rather you introduce a meta-level and use another model/approach to estimate the input together with outputs of every model to estimate the weights or, in other words, to determine what models perform well and what badly given these input data.
+It is a similar to boosting: it also applies several models to the original data. The difference here is, however, that it doesn't have just an empirical formula for the weight function, rather it introduces a meta-level and use another model/approach to estimate the input together with outputs of every model to estimate the weights or, in other words, to determine what models perform well and what badly given these input data.
 
 Unlike bagging and boosting, stacking may be (and normally is) used to combine models of different types. The point of stacking is to explore a space of different models for the same problem. 
 
