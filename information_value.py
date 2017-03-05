@@ -1,3 +1,4 @@
+# What is actually meaning of IV? Will IV decrease when I change continuous variable to categorical variable?
 import numpy as np
 import math
 from scipy import stats
