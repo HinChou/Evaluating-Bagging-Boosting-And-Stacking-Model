@@ -39,7 +39,7 @@ As you see, these all are different approaches to combine several models into a 
 Here is a comparison table:
 ![alt tag](https://github.com/HinChou/Evaluating-Bagging-Boosting-And-Stacking-Model/blob/master/Bagging_Boosting_Stacking_Comparison_Table.jpg)
 
-References:
+### References:
 * http://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning
 * https://www.quora.com/What-is-stacking-in-machine-learning
 * https://github.com/patrick201/information_value
