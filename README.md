@@ -1,6 +1,6 @@
 # Evaluating-Bagging-Boosting-And-Stacking-Model
 
-All three are so-called "meta-algorithms": approaches to combine several machine learning techniques into one predictive model in order to decrease the variance (bagging), bias (boosting) or improving the predictive force (stacking alias ensemble).
+All these three are so-called "meta-algorithms": approaches to combine several machine learning techniques into one predictive model in order to decrease the variance (bagging), bias (boosting) or improving the predictive force (stacking alias ensemble).
 
 Every algorithm consists of two steps:
 
